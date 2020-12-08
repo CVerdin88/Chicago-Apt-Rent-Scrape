@@ -1,5 +1,5 @@
 # Chicago Rent Data Scrape
-## This is an Scrapes 'craigslist apartments for rent' section to get more in-depth analysis of prices and square footage of apartments in different chicago neighborhoods. <h2> tag
+## This is an Scrapes 'craigslist apartments for rent' section to get more in-depth analysis of prices and square footage of apartments in different chicago neighborhoods. <h2> 
 
 
 
