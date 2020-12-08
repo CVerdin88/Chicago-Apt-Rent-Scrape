@@ -3,7 +3,7 @@
 
 
 
-Link to analysis:
+### Link to analysis:
 
 https://github.com/ChristianVerdin/Chicago-Apt-Rent-Scrape/blob/master/1BedRoom-Chicago%20Craigslist%20Rent%20DataScrape%20v1.0.ipynb
 
