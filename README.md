@@ -3,3 +3,4 @@ Scrapes 'craigslist apartments for rent' section to get more in-depth analysis o
 
 
 
+![header image](https://github.com/ChristianVerdin/Chicago-Apt-Rent-Scrape/blob/master/Craigslist_Rental-Scraper.JPG?raw=True)
