@@ -12,3 +12,8 @@ https://github.com/ChristianVerdin/Chicago-Apt-Rent-Scrape/blob/master/1BedRoom-
 
 
 ![header image](https://github.com/ChristianVerdin/Chicago-Apt-Rent-Scrape/blob/master/Craigslist_Rental-Scraper.JPG?raw=True)
+
+
+
+![header image](https://github.com/ChristianVerdin/Chicago-Apt-Rent-Scrape/blob/master/Craigslist_1bedroom.JPG?raw=True)
+
